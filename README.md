@@ -4,8 +4,4 @@ The increasing adoption of electric vehicles (EVs) in the UK is expected to incr
 
 This project will be based on data from the Zap-Map platform, using Leeds as a scope, to analyse the sentiment of user reviews of electric vehicle charging stations. We will create word clouds of comments, counting the most frequent words in the comments; we then Calculate Polarity and Subjectivity on these comments to be used to determine whether a comment expresses a positive, negative or neutral view, which allows the user's attitude to be determined by quantifying the sentiment of the text. Finally, we used NRCLex to conduct a sentiment analysis of the main types of sentiment in the comments and to create a sentiment map to explore the spatial distribution of sentiment.
 
-## Results
-### 1.Word Cloud  
-In positive comments, words like "good" and "fine" indicate satisfaction with charging, and "free" suggests finding unoccupied charging posts. Negative comments feature words such as "unable," "time," and "slow," highlighting issues with availability, long charging times, and slow speeds. Neutral terms like "reported" might indicate malfunctions in charging stations, while the meanings of "still" and "power" are unclear. According to a bar chart, out of 3,306 comments on Leeds EV charging stations, over 800 mention "charge," and more than 400 mention "working" and "charging." Words like "app," "charger," "car," and "good" appear 200-400 times, while "fine," "card," "still," "free," and others are less frequent. Negative words are not commonly seen in the top fifteen word clouds.  
-### 2.Polarity and Subjectivity  
-### 3.Emotional Type and Maping  
+  
